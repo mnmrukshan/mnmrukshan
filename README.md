@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=200&section=header&text=Mohamed%20Rukshan&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
-### 👋 Hi there, I'm Mohamed Rukshan 
+### 👋 Greetings! I am Mohamed Rukshan
 **BSc (Hons) Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka** 🎓
 
 <p align="center">
@@ -19,9 +19,9 @@
 ### 🚀 About Me
 - 🔭 **Currently Working On:** Full-stack projects using **MERN** and Mobile apps with **Flutter**.
 - 📚 **Academic Path:** Currently in my **3rd Year**, focusing on Software Engineering principles.
-- 🎯 **Career Goals:** Actively preparing for **Software Engineering / Data Science Internships** (Targeting next 5 months).
+- 🎯 **Career Goals:** Actively preparing for **Fullstack Developer / Data Analyst Internships**.
 - ⚡ **Interests:** I love exploring **AI/ML**, improving my **English skills**, and occasional **Hiking** 🏔️.
-- 💬 **Ask me about:** Java, Python, Flutter, or why *Stranger Things* is the best series! 🍿
+- 💬 **Ask me about:** Java, Python, Flutter, or Software Architecture.
 
 ---
 
@@ -79,9 +79,15 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/mnmrukshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnmrukshan" height="30" width="40" /></a>
-  <a href="https://fb.com/mnmrukshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-all.svg" alt="mnmrukshan" height="30" width="40" /></a>
-  <a href="https://instagram.com/mnmrukshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnmrukshan" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-rukshan-0393b4373" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mnmrukshan22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mnmrukshan" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <br />
