@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=200&section=header&text=Mohamed%20Rukshan&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
-### 👋 Greetings! I am Mohamed Rukshan
+### Hi there, I'm Mohamed Rukshan 👋
 **BSc (Hons) Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka** 🎓
 
 <p align="center">
@@ -17,15 +17,14 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Working On:** Full-stack projects using **MERN** and Mobile apps with **Flutter**.
+- 🔭 Currently Working On: Full-stack projects using MERN, AI solutions, Data Analytics, and Mobile apps with Flutter.
 - 📚 **Academic Path:** Currently in my **3rd Year**, focusing on Software Engineering principles.
-- 🎯 **Career Goals:** Actively preparing for **Fullstack Developer / Data Analyst Internships**.
+- 🎯 **Career Goals:** Actively preparing for **Fullstack Developer / Data Analyst **.
 - ⚡ **Interests:** I love exploring **AI/ML**, improving my **English skills**, and occasional **Hiking** 🏔️.
-- 💬 **Ask me about:** Java, Python, Flutter, or Software Architecture.
-
+- 💬 Ask me about: MERN Stack, Data Analytics, AI, or Software Architecture.
 ---
 
-### 🛠️ Languages & Tools (Glassmorphism Style)
+### 🛠️ Languages & Tools 
 
 <table align="center">
   <tr>
@@ -64,7 +63,7 @@
 
 ---
 
-### 📊 GitHub Analytics (Dark/Glass Theme)
+### 📊 GitHub Analytics 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mnmrukshan&show_icons=true&theme=transparent&title_color=00d1ff&text_color=ffffff&icon_color=00d1ff&hide_border=true&bg_color=00000000" />
@@ -85,9 +84,7 @@
   <a href="mailto:mnmrukshan22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/mnmrukshan" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ 
 </p>
 
 <br />
