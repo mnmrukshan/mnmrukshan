@@ -66,8 +66,7 @@
 ### 📊 GitHub Analytics 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mnmrukshan&show_icons=true&theme=transparent&title_color=00d1ff&text_color=ffffff&icon_color=00d1ff&hide_border=true&bg_color=00000000" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnmrukshan&layout=compact&theme=transparent&title_color=00d1ff&text_color=ffffff&hide_border=true&bg_color=00000000" />
+ 
 </p>
 
 <p align="center">
