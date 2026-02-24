@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=200&section=header&text=Mohamed%20Rukshan&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Mohamed%20Rukshan&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Analyst;AI+and+ML+Enthusiast;Building+scalable+web+applications" alt="Typing SVG" />
+  </h1>
 </div>
 
-### Hi there, I'm Mohamed Rukshan 👋
+### 👋 Hello! I'm Mohamed Rukshan
 **BSc (Hons) Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka** 🎓
 
 <p align="center">
@@ -17,11 +21,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently Working On: Full-stack projects using MERN, AI solutions, Data Analytics, and Mobile apps with Flutter.
+- 🔭 **Currently Working On:** Full-stack projects using **MERN**, **AI** solutions, **Data Analytics**, and Mobile apps with **Flutter**.
 - 📚 **Academic Path:** Currently in my **3rd Year**, focusing on Software Engineering principles.
-- 🎯 **Career Goals:** Actively preparing for **Fullstack Developer / Data Analyst **.
-- ⚡ **Interests:** I love exploring **AI/ML**, improving my **English skills**, and occasional **Hiking** 🏔️.
-- 💬 Ask me about: MERN Stack, Data Analytics, AI, or Software Architecture.
+- 🎯 **Career Goals:** Actively preparing for **Fullstack Developer / Data Analyst**.
+- ⚡ **I love exploring AI/ML, building scalable applications with the MERN Stack, and developing seamless mobile experiences**.
+- 🌍 **Open for:** Remote collaborations on Full-stack and Data Science projects.
 ---
 
 ### 🛠️ Languages & Tools 
@@ -66,11 +70,12 @@
 ### 📊 GitHub Analytics 
 
 <p align="center">
- 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mnmrukshan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnmrukshan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnmrukshan&theme=transparent&stroke=00d1ff&fire=00d1ff&ring=ffffff&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnmrukshan&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
@@ -83,7 +88,9 @@
   <a href="mailto:mnmrukshan22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
+  <a href="https://www.instagram.com/mnm_rukshan?igsh=MW1ucWYzdTRzbzZ2Zg%3D%3D&utm_source=qr" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </p>
 
 <br />
