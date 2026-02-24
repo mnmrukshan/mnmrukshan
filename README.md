@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Analytics (Glass Theme)
+### 📊 GitHub Analytics 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mnmrukshan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
