@@ -72,5 +72,5 @@
 <br />
 
 <div align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i> ✨
+  <i>“Solving tomorrow's problems with today's intelligence.”</i> 🧠⚡
 </div>
