@@ -20,7 +20,7 @@
 - 🔭 **Currently Working On:** Full-stack web applications using **MERN/Next.js**, Cross-platform mobile apps (**React Native & Flutter**), and integrating **AI (Gemini API)** into real-world solutions.
 - 📚 **Academic Path:** 3rd Year Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka.
 - 🎯 **Career Goals:** Actively seeking a **Software Engineering Internship** to drive impact in a dynamic tech environment.
-- 🌟 **Open Source:** Proud contributor to the **WSO2 Identity Server** repository.
+- 🌟 **Open Source:** Enthusiastic open-source contributor, with recent contributions to industry-leading repositories like the WSO2 Identity Server.
 - ⚡ **Passion:** Building secure, real-time, and scalable systems with robust API architectures.
 
 ---
