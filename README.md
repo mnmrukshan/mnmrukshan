@@ -2,7 +2,7 @@
   <h1>👋 Hello! I'm Mohamed Rukshan</h1>
   <p><strong>BSc (Hons) Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka 🎓</strong></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Analyst;AI+and+ML+Enthusiast;Building+scalable+web+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Mobile+App+Developer;AI+Integration+Enthusiast;Software+Engineering+Undergrad" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/mnmrukshan">
@@ -17,11 +17,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Working On:** Full-stack projects using **MERN**, **AI** solutions, **Data Analytics**, and Mobile apps with **Flutter**.
-- 📚 **Academic Path:** Currently in my **3rd Year**, focusing on Software Engineering principles.
-- 🎯 **Career Goals:** Actively preparing for **Fullstack Developer & Data Analyst **.
-- ⚡ **Passion:** Building scalable applications with the **MERN Stack** and developing seamless mobile experiences.
-- 🌍 **Open for:** Remote collaborations on Full-stack and Data Science projects.
+- 🔭 **Currently Working On:** Full-stack web applications using **MERN/Next.js**, Cross-platform mobile apps (**React Native & Flutter**), and integrating **AI (Gemini API)** into real-world solutions.
+- 📚 **Academic Path:** 3rd Year Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka.
+- 🎯 **Career Goals:** Actively seeking a **Software Engineering Internship** to drive impact in a dynamic tech environment.
+- 🌟 **Open Source:** Proud contributor to the **WSO2 Identity Server** repository.
+- ⚡ **Passion:** Building secure, real-time, and scalable systems with robust API architectures.
 
 ---
 
@@ -31,15 +31,23 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,mysql" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,postman,aws,vscode" /> |
-| **Concepts** | `REST API` `MVC` `JWT` `OOP` `Agile/Scrum` `CI/CD` |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,java" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=react,flutter,dart" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
+| **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,github,linux,postman,opencv" /> |
+| **Concepts & Tech** | `RESTful APIs` `JWT` `OIDC/PKCE` `Socket.io` `MVC` `WSO2 Asgardeo` |
 
 </div>
+
+---
+
+### 🔥 Featured Projects
+* **PathAI:** AI-Powered Career Roadmap Architect (Next.js, FastAPI, Gemini API)
+* **Sabra Trails:** Cross-Platform Adventure Navigation App with WSO2 Asgardeo Auth (React Native, Express.js)
+* **Tasto:** AI-Powered Food Ordering & Management Platform (React.js, Node.js)
+* **Hybrid Student Attendance System:** Secure attendance via QR, Face Recognition & Geofencing (Team Lead)
 
 ---
 
@@ -68,9 +76,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-<br />
-
-<div align="center">
-  <i>“Solving tomorrow's problems with today's intelligence.”</i> 🧠⚡
-</div>
